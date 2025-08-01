@@ -43,6 +43,7 @@ Applied custom color themes and design
 ## Dashboard
 
 <img width="1586" height="872" alt="Page-1" src="https://github.com/user-attachments/assets/2ea6c011-142c-4ba2-af74-1e617c47e778" />
+
 <img width="1592" height="842" alt="Page-2" src="https://github.com/user-attachments/assets/118be70d-e410-4331-a7ed-279260e445bc" />
 
 ---
